@@ -212,3 +212,64 @@
     
         color: #FFFFFF;
 }
+
+/* ========== PAGE2 ========== */
+/* ========== HERO ========== */
+.filters{
+    background: #E5E5E5;
+}
+
+.filter-btn{
+    border: none;
+    font-family: 'Roboto';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        /* identical to box height, or 162% */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+        background: #F5F4FA;
+        cursor: pointer;
+}
+
+.filter-btn:hover,
+.filter-btn:focus{
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+/* ========== OUR PROJECTS ========== */
+.our-projects{
+    background: #E5E5E5;
+}
+
+.projects-list-item{
+    background: #FFFFFF;
+}
+
+.project-name{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+
+.project-description{
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.87;
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}

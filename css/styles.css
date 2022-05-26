@@ -114,9 +114,7 @@ body{
 }
 
 /* ========== BENEFITS ========== */
-.benefits{
-    background: #E5E5E5;
-}
+
 .benefits-examples-title{
         font-weight: 700;
         font-size: 14px;
@@ -137,9 +135,7 @@ body{
 }
 
 /* ========== PORTFOLIO ========== */
-.portfolio{
-    background: #E5E5E5;
-}
+
 .portfolio-title{
         font-weight: 700;
         font-size: 36px;
@@ -232,9 +228,6 @@ body{
 
 /* ========== PAGE2 ========== */
 /* ========== HERO ========== */
-.filters{
-    background: #E5E5E5;
-}
 
 .filter-btn{
     border: none;
@@ -258,9 +251,6 @@ body{
 }
 
 /* ========== OUR PROJECTS ========== */
-.our-projects{
-    background: #E5E5E5;
-}
 
 .projects-list-item{
     background: #FFFFFF;

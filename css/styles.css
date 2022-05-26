@@ -48,6 +48,10 @@ body{
         color: var(--color-title);
 }
 
+.current{
+    color: var(--accent-color);
+}
+
 .email{
         font-weight: 500;
         font-size: 14px;
